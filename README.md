@@ -14,3 +14,6 @@ Nội dung đồ án:
 - Một số bài tập xử lý ảnh khác ngoài chương trình học:
 1. Nhận dạng và làm mờ biển số xe.
 2. Nhận dạng khuôn mặt người và phân biệt giới tính nam nữ.
+
+
+Để chạy trang web, người dùng vào trực tiếp thư mục chính và vào cmd. Sau đó nhập lệnh "streamlit run home.py" để chạy website.
