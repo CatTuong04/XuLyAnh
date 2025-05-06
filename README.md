@@ -1,7 +1,7 @@
-// Đồ án môn học XỬ LÝ ẢNH SỐ
-// Các thành viên thực hiện:
-// 22110263 - Nguyễn Võ Cát Tường
-// 22110137 - Nguyễn Thanh Hiền
+Đồ án môn học XỬ LÝ ẢNH SỐ
+Các thành viên thực hiện:
+22110263 - Nguyễn Võ Cát Tường
+22110137 - Nguyễn Thanh Hiền
 
 Nội dung đồ án: 
 - Thực hiện xây dựng trang web chứa các nội dung sau:
